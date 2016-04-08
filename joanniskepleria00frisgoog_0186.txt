@@ -1,0 +1,62 @@
+E Mathematicus. 183
+
+ttgrrsttra- nt subtensus pentagonlos ad latus pentagoni. Sed deest mihi
+sdhuo probatio, quod quae eub angulo sit aequalis illis· in plenis. Id tunt
+erit perfeetum, si probaveris, eam, quan terminos portionum maioris el minoris
+nontermiuarurn connectit ln plano, posse duplum minoris; nam quas est sub
+angulo, potest duplum minoris.
+
+ln triangulo ABG aequilatero Β,Ε sint puncta sectionum, portiones
+majores ΑΒ, ΕΙ), minores BD, ΑΕ. Ducentur ex E et D ad BG parallelae
+EF, DG et eonneetantur ΕΙ), ΒΕ. Erunt ergo ΑΕΕ, aot} regularia et aequi-
+lstera triangula, quare DA: ΑΕ = DG: FE3 sunt
+itaque in continua proportione DG, GE, vel ΕΒ,
+et quadrangulum DFEG circulo inseriptile. Ergo B
+quadratum ΒΕ vel FG, reetangulnm nempe dia-
+metrorum, aequale DF. GE (= Dpa) -l- DG. FE.
+El ergo probareris 2 Fu² = FE. DG -Ι- ΕΒΙ, oon-
+isrta res est; vel quod idem eet, si mediae poten-
+tiss duplum aequet potentiam minimae, poten-
+tiam mediae, et reetangulnm ex minima et media,
+rel si potentla mediae aequet potentiam minimae
+st reotsngulum ex minima et media, vel sl potentia
+medias aequet reotsngnlum ex minima et maxima. A
+Id pes se rerum, si reeta senetur proportionaliter, quod·ax tota in minorem
+partem aequum essaei, quod ex media quadratum.
+
+Ergo sio demonstretur: oum recta ΑΒ secta sit proportionaliter ln D,
+rents sero ΑΙ) in E, constituatur ergo AG = ΑΒ el AF = ΑΕ et eonnec-
+tantur DG, EG, ΕΒ, FE. Cum ergo pars minor AF de maiori Al) sit subtracta
+et ΑΕ de AG, residua ΕΒ et EG erunt iterum minores totis AG, AD, sectis
+in Ε et F. Sed ΛΕ = EF et AG = ΑΒ -- ΒΙ), nam ncss est aequilaterum,
+quare et ΕΑΒ --.- Ι)ΑΕ propter communem angulum A et bina eirea illum latera
+ex hypothesi aequalia. Quare ΕΒ rel EG est minor, FE major, GD tota.
+Et num aequilatera et aequiangnla sint EAD, EAG, boses orgo ΕΙ) = ΕΙ).
+Cumque GEF, DFE sint residua aequalium AGF, ΑΒΕ, erunt aequalia. Est
+vero etiarn EGD = FDG, sio in quadrangulo EFDG bini ad idem latus ae·
+quales: igitur in eironlo inseriptile quadrangulum. Quod igitur ox ΕΙ) in ΕΙ)
+aequale, h. e. quadratum alterutrius, aequale est junctis ex EF, DG et EG,
+
+ΕΒ. At qnod ex EF in GD aequale est quadrato EF et reetangulo ex ·
+
+ΕΕ, ΕΙ) (residuo ΕΕ ad AG), st quod ex EG in ΕΒ est quadratum alter·
+nulus. Ergo ED² = EG⁹ -Ι- ΕΕ2 -Ι- ΕΕ >< EG, lr. e. z ΑΕ) -Ι- EG⁹ -l- ΑΕ.
+
+EG. Sed EG² -l- AE. EG = ΕΙ). ()Α. Ergo ED² = Alll-l- EG. Gn. At
+lu² = ΕΙ). Gli, ergo ΕΒ) = Β ΑΕΙ. Sed et linea, quae occulto sub solido
+angulo ducitur, aequat ΑΕ partem minorem de toto latere bis, oum contra·
+venientium laterum in octaiidro angulus sit rectus et linea proposita connectat
+extremitates minorum portium. Ergo aequales sunt omnes lineae sicque in oo·
+
+taidro descriptum ieosa'e'dron. ’
+
+,. conandum.
+
+Sphaerisnm at loeo primo. ld tria habet: punctum, superficiem et ae·
+qualitatem diastematis. Punctum medinm nnunr est pendetque ejus unitas ex
+delinitione superficiei et diastematis. Superficies se ipsd una et linita eet, quia
+in so redit, definitur peneto et diastemate. Diastema est veluti proportio, est.
+enim collatio puncti ad superficiem. Ejus unitas inaequalitate consistit, ut
+
+ 
+
